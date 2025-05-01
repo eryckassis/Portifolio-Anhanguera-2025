@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é um signo de fogo, associado à liderança, dinamismo e coragem. Representa o início e a ação.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é um signo de terra, ligado à estabilidade, sensualidade e apreciação pelas coisas boas da vida.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é um signo de ar, caracterizado pela versatilidade, curiosidade e adaptabilidade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>20/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é um signo de água, conhecido pela sensibilidade, empatia e necessidade de segurança emocional.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/07</dataInicio>
+        <dataFim>20/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é um signo de fogo, associado à confiança, criatividade e liderança.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/08</dataInicio>
+        <dataFim>20/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é um signo de terra, conhecido pela perfeição, praticidade e atenção aos detalhes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/09</dataInicio>
+        <dataFim>20/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é um signo de ar, focado no equilíbrio, harmonia e relacionamentos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/10</dataInicio>
+        <dataFim>20/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é um signo de água, intenso, misterioso e muito focado em transformação.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/11</dataInicio>
+        <dataFim>20/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é um signo de fogo, ligado à aventura, otimismo e à busca por conhecimento.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é um signo de terra, conhecido pela disciplina, responsabilidade e ambição.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>20/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é um signo de ar, associado à inovação, originalidade e independência.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é um signo de água, conhecido pela sensibilidade, imaginação e empatia.</descricao>
+    </signo>
+</signos>
